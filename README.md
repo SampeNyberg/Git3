@@ -12,3 +12,4 @@ This is a small Python program that prints Pascal's triangle.
 
 
 ändring nummer 2
+ändring nummer 3
